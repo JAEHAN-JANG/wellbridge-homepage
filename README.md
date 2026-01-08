@@ -139,10 +139,10 @@
 > 저장소에 이미지를 올린 뒤 아래 경로만 맞춰주면 됩니다.
 
 - 관리자 대시보드  
-  `![Admin Dashboard](./assets/admin_dashboard.png)`
+  `![Admin Dashboard](./assets/admin_main.png)`
 
 - 기업 홈페이지 메인  
-  `![Homepage](./assets/homepage_main.png)`
+  `![Homepage](./assets/main.png)`
 
 - 뉴스 등록(OG 태그 자동 수집)  
   `![OpenGraph](./assets/opengraph.png)`
